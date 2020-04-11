@@ -1,6 +1,6 @@
 {
   "name": "shortener",
-  "baseUrl": "https://shortener-demo.netlify.com",
+  "baseUrl": "https://l.ahmedgamal.ga",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
