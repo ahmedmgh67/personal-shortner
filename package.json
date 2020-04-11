@@ -1,4 +1,5 @@
 {
+  "name": "shortener",
   "baseUrl": "https://shortener-demo.netlify.com",
   "private": true,
   "scripts": {
@@ -8,5 +9,8 @@
   "license": "MIT",
   "devDependencies": {
     "netlify-shortener": "^1.0.1"
+  },
+  "bin": {
+    "shorten": "cli.js"
   }
 }
